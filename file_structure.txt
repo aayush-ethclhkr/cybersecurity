@@ -1,5 +1,5 @@
 cybersec.html
-style.ss
-quetions.css
+style.css
+quetions.js
 main.js
 static\
